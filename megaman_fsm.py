@@ -4,8 +4,6 @@ from idle_state import MegamanIdleState
 # from jumping_state import MegamanJumpingState
 from running_state import MegamanRunningState
 
-
-
 class MegamanFSM:
 
     def __init__(self):

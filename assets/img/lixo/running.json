@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "megaman0.png",
+	"frame": {"x":0,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman1.png",
+	"frame": {"x":35,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman2.png",
+	"frame": {"x":70,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman3.png",
+	"frame": {"x":105,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman4.png",
+	"frame": {"x":140,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman5.png",
+	"frame": {"x":175,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman6.png",
+	"frame": {"x":210,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman7.png",
+	"frame": {"x":245,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman8.png",
+	"frame": {"x":280,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman9.png",
+	"frame": {"x":315,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "megaman10.png",
+	"frame": {"x":350,"y":0,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "running.png",
+	"format": "RGBA8888",
+	"size": {"w":385,"h":35},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0e7efbd47b8554a2c24b250086e2fe8d:e93023ad92621bc617cff60c5ae423da:00f7b5fab5d54df4936f1d7175e7b57f$"
+}
+}
